@@ -1,3 +1,1 @@
-# ITF2024
-
-Hello ijudge 67070044
+"# ITF2024"
